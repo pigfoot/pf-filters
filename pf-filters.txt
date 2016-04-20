@@ -1,0 +1,18 @@
+##
+## Needed to unbreak web sites, mostly because of Fanboy’s Social Block filters
+##
+
+# theoldreader.com
+theoldreader.com#@#.btn-social-icon
+theoldreader.com#@#.icon-twitter
+theoldreader.com#@#.icon-rss
+
+##
+## custimized banner block, especially on mobile platform
+##
+
+# flipboard.com
+flipboard.com###main > .app > .visible.sign-up-pagebox
+
+# flipboard.com
+ck101.com###pop_ad_mobile
