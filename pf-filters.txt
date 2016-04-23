@@ -20,3 +20,6 @@ ck101.com###pop_ad_mobile
 # forum.gamer.com.tw
 forum.gamer.com.tw###BH-bigbanner
 forum.gamer.com.tw###flySalve
+
+# technews.tw
+technews.tw##.blockPage.blockMsg.blockUI
