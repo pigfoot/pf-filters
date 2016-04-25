@@ -23,6 +23,7 @@ forum.gamer.com.tw###flySalve
 
 # technews.tw
 technews.tw##.blockPage.blockMsg.blockUI
+technews.tw##.blockOverlay.blockUI
 
 # appledaily.com.tw
 www.appledaily.com.tw##.fancybox-overlay-fixed.fancybox-overlay
