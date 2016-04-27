@@ -33,3 +33,7 @@ vision.udn.com###threemin
 
 # pixnet.net
 pixnet.net##.idle-pop
+
+# mobile01.com
+m.mobile01.com###smartbanner
+m.mobile01.com###ad-close > a[href="javascript:closefullscreenad();"]
