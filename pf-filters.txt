@@ -37,3 +37,8 @@ pixnet.net##.idle-pop
 # mobile01.com
 m.mobile01.com###smartbanner
 m.mobile01.com###ad-close > a[href="javascript:closefullscreenad();"]
+
+# m.gamme.com.tw
+m.gamme.com.tw###fullad_all
+m.gamme.com.tw###closeFullad
+m.gamme.com.tw###fullBG
