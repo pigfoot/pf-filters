@@ -45,3 +45,7 @@ m.gamme.com.tw###fullBG
 
 # facebook.com
 facebook.com##DIV[id^="pagelet_growth_expanding_cta"]
+
+# 1/17/2019, 11:21:22 PM https://www.thenewslens.com/
+www.thenewslens.com##.section.video-section > .help-tnl-container-970_250
+www.thenewslens.com##.article-section > .help-tnl-container-970_250
