@@ -1,44 +1,50 @@
-##
-## Needed to unbreak web sites, mostly because of Fanboy’s Social Block filters
-##
+[pigfoot's Adblocker]
+! Title: pigfoot's uBlock filters
+! Expires: 7 days
+! License: GPL-3.0
+! Source: https://raw.githubusercontent.com/pigfoot/pf-filters/master/pf-filters.txt
 
-# theoldreader.com
+!
+! Needed to unbreak web sites, mostly because of Fanboy’s Social Block filters
+!
+
+! theoldreader.com
 theoldreader.com#@#.btn-social-icon
 theoldreader.com#@#.icon-twitter
 theoldreader.com#@#.icon-rss
 
-##
-## custimized banner block, especially on mobile platform
-##
+!
+! custimized banner block, especially on mobile platform
+!
 
-# flipboard.com
+! flipboard.com
 flipboard.com###main > .app > .visible.sign-up-pagebox
 
-# flipboard.com
+! ck101.com
 ck101.com###pop_ad_mobile
 
-# forum.gamer.com.tw
+! forum.gamer.com.tw
 forum.gamer.com.tw###BH-bigbanner
 forum.gamer.com.tw###flySalve
 
-# technews.tw
+! technews.tw
 technews.tw##.blockPage.blockMsg.blockUI
 technews.tw##.blockOverlay.blockUI
 
-# appledaily.com.tw
+! appledaily.com.tw
 www.appledaily.com.tw##.fancybox-overlay-fixed.fancybox-overlay
 
-# udn.com
+! udn.com
 vision.udn.com###threemin
 
-# pixnet.net
+! pixnet.net
 pixnet.net##.idle-pop
 
-# mobile01.com
+! mobile01.com
 m.mobile01.com###smartbanner
 m.mobile01.com###ad-close > a[href="javascript:closefullscreenad();"]
 
-# m.gamme.com.tw
+! m.gamme.com.tw
 m.gamme.com.tw###fullad_all
 m.gamme.com.tw###closeFullad
 m.gamme.com.tw###fullBG
@@ -46,6 +52,6 @@ m.gamme.com.tw###fullBG
 # facebook.com
 facebook.com##DIV[id^="pagelet_growth_expanding_cta"]
 
-# 1/17/2019, 11:21:22 PM https://www.thenewslens.com/
+! www.thenewslens.com
 www.thenewslens.com##.section.video-section > .help-tnl-container-970_250
 www.thenewslens.com##.article-section > .help-tnl-container-970_250
