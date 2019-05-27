@@ -37,6 +37,7 @@ www.appledaily.com.tw##.fancybox-overlay-fixed.fancybox-overlay
 ! udn.com
 vision.udn.com###threemin
 udn.com##.ad_mask
+udn.com###ad_curtain
 
 ! pixnet.net
 pixnet.net##.idle-pop
