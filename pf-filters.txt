@@ -38,6 +38,9 @@ www.appledaily.com.tw##.fancybox-overlay-fixed.fancybox-overlay
 vision.udn.com###threemin
 udn.com##.ad_mask
 udn.com###ad_curtain
+udn.com##.udn-idle__container
+udn.com##.udn-idle
+udn.com##.udn-overlay
 
 ! pixnet.net
 pixnet.net##.idle-pop
