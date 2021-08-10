@@ -60,3 +60,6 @@ facebook.com##DIV[id^="pagelet_growth_expanding_cta"]
 ! www.thenewslens.com
 www.thenewslens.com##.section.video-section > .help-tnl-container-970_250
 www.thenewslens.com##.article-section > .help-tnl-container-970_250
+
+! news.ltn.com.tw
+news.ltn.com.tw##.softPush_notification
