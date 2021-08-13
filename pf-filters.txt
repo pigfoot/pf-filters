@@ -63,3 +63,4 @@ www.thenewslens.com##.article-section > .help-tnl-container-970_250
 
 ! news.ltn.com.tw
 news.ltn.com.tw##.softPush_notification
+news.ltn.com.tw##.idle_lightbox_target
