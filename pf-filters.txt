@@ -67,3 +67,4 @@ news.ltn.com.tw##.idle_lightbox_target
 
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
+aa1xx.xyz##lazy-list
