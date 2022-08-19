@@ -68,3 +68,12 @@ news.ltn.com.tw##.idle_lightbox_target
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
 aa1xx.xyz##lazy-list
+
+! ggjav.com (desktop)
+ggjav.com##div.small-12.medium-6.large-6.columns:nth-of-type(3)
+ggjav.com###pc_instant
+
+! ggjav.com (mobile)
+ggjav.com##div.row:nth-of-type(4)
+ggjav.com##.float-left.item.small-12.medium-6.large-3.columns.native_ads
+ggjav.com##body > div.row > div.columns > .row
