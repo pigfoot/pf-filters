@@ -77,3 +77,6 @@ ggjav.com###pc_instant
 ggjav.com##div.row:nth-of-type(4)
 ggjav.com##.float-left.item.small-12.medium-6.large-3.columns.native_ads
 ggjav.com##body > div.row > div.columns > .row
+
+! missav.com
+missav.com##.under_player
