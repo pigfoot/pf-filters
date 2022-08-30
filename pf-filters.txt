@@ -65,6 +65,9 @@ www.thenewslens.com##.article-section > .help-tnl-container-970_250
 news.ltn.com.tw##.softPush_notification
 news.ltn.com.tw##.idle_lightbox_target
 
+! userupload.net
+userupload.net##.adsbygoogle
+
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
 aa1xx.xyz##lazy-list
