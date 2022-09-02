@@ -65,9 +65,6 @@ www.thenewslens.com##.article-section > .help-tnl-container-970_250
 news.ltn.com.tw##.softPush_notification
 news.ltn.com.tw##.idle_lightbox_target
 
-! userupload.net
-userupload.net##.mb-4.col-md-4
-
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
 aa1xx.xyz##lazy-list
@@ -88,4 +85,4 @@ missav.com##.under_player
 avgle.com###exo-native
 
 ! www.netflav.com
-www.netflav.com##[src^="https://go.xlvirdr.com/"]
+netflav.com##iframe[src^="https://go.xlvirdr.com/"]
