@@ -80,6 +80,7 @@ ggjav.com##body > div.row > div.columns > .row
 
 ! missav.com
 missav.com##.under_player
+missav.com##.banner-300.mx-auto
 
 ! avgle.com
 avgle.com###exo-native
