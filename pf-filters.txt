@@ -90,3 +90,4 @@ netflav.com##iframe[src^="https://go.xlvirdr.com/"]
 
 ! avbebe.com
 avbebe.com##iframe[src*="https://r.trwl1.com/"]
+avbebe.com##iframe[src^="https://new.dp-toy.com"]
