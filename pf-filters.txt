@@ -87,3 +87,6 @@ avgle.com###exo-native
 
 ! www.netflav.com
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
+
+! avbebe.com
+avbebe.com##iframe[src*="https://r.trwl1.com/"]
