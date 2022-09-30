@@ -70,6 +70,7 @@ avgle.com###exo-native
 
 ! ggjav.com
 ggjav.com##.native_ads
+ggjav.com##iframe[src*="https://r.trwl1.com/"]
 
 ! missav.com
 missav.com##.under_player
