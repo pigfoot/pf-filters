@@ -44,8 +44,8 @@ kisssub.org##:xpath(//div[@class='clear text_center' and @style='margin-bottom:1
 m.kisssub.org##:xpath(//div[@class='gg-full-width'])
 
 ! www.beurlife.com <div style="width:100%;height:350px" fuy3olrvx="" fi6xvyho7="">
-www.beurlife.com##:xpath(//div[@style='width:100%;height:350px'])
-www.beurlife.com##:xpath(//p[@class='info_before_post'])
+www.beurlife.com##:xpath(//div[@style='width:100%;height:350px'or @class='entry-share-wrap'] | //p[@class='info_before_post'])
+
 
 ! avgle.com
 avgle.com###exo-native
