@@ -66,7 +66,7 @@ avbebe.com##iframe[src*="https://r.trwl1.com/"]
 avbebe.com##iframe[src^="https://new.dp-toy.com"]
 
 ! cavb.tv
-ccavb.tv##.mantine-esq9yz.mantine-Col-root
+ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and @style='margin-top:20px'])
 
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
