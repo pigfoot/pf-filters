@@ -71,6 +71,9 @@ avbebe.com##iframe[src^="https://new.dp-toy.com"]
 ! cavb.tv
 ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and @style='margin-top:20px'])
 
+! 18av.mm-cg.com
+18av.mm-cg.com##:xpath(//div[contains(@class,'ut1_img')])
+
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
 aa1xx.xyz##lazy-list
