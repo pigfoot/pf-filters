@@ -51,7 +51,7 @@ eats.quickclick.cc##.ad_bottom0.notify_fixed
 
 ! kenki2515.pixnet.net (痞客邦)
 ! kenki2515.pixnet.net##:xpath(//ins[@class='adsbygoogle'])
-pixnet.net##:xpath(//ins[@class='adsbygoogle'] | //iframe[@id='google_esf'] | //div[@id='ad-full-page'] || //div[@id='mib-video-expander'])
+pixnet.net##:xpath(//ins[@class='adsbygoogle'] | //iframe[@id='google_esf'] | //div[@id='ad-full-page'] | //div[@id='mib-video-expander'])
 
 ! avgle.com
 avgle.com###exo-native
