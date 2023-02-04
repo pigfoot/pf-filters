@@ -32,6 +32,9 @@ pixnet.net##.idle-pop
 m.mobile01.com###smartbanner
 m.mobile01.com###ad-close > a[href="javascript:closefullscreenad();"]
 
+! www.dcard.tw
+dcard.tw##.__portal
+
 ! news.ltn.com.tw
 news.ltn.com.tw##.softPush_notification
 news.ltn.com.tw##.idle_lightbox_target
