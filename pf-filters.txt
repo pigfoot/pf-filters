@@ -4,6 +4,10 @@
 ! License: GPL-3.0
 ! Source: https://raw.githubusercontent.com/pigfoot/pf-filters/master/pf-filters.txt
 
+! White List for LINE
+@@||obs.line-scdn.net$image,domain=buy.line.me
+@@||d.line-scdn.net$image,domain=buy.line.me
+
 ! ck101.com
 ck101.com###pop_ad_mobile
 
