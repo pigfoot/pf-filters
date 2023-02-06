@@ -4,41 +4,6 @@
 ! License: GPL-3.0
 ! Source: https://raw.githubusercontent.com/pigfoot/pf-filters/master/pf-filters.txt
 
-! forum.gamer.com.tw
-forum.gamer.com.tw###BH-bigbanner
-forum.gamer.com.tw###flySalve
-
-! m.gamme.com.tw
-m.gamme.com.tw###fullad_all
-m.gamme.com.tw###closeFullad
-m.gamme.com.tw###fullBG
-
-! technews.tw
-technews.tw##.blockPage.blockMsg.blockUI
-technews.tw##.blockOverlay.blockUI
-
-! udn.com
-vision.udn.com###threemin
-udn.com##.ad_mask
-udn.com###ad_curtain
-udn.com##.udn-idle__container
-udn.com##.udn-idle
-udn.com##.udn-overlay
-
-! pixnet.net
-pixnet.net##.idle-pop
-
-! mobile01.com
-m.mobile01.com###smartbanner
-m.mobile01.com###ad-close > a[href="javascript:closefullscreenad();"]
-
-! www.dcard.tw
-dcard.tw##.__portal
-
-! news.ltn.com.tw
-news.ltn.com.tw##.softPush_notification
-news.ltn.com.tw##.idle_lightbox_target
-
 ! ck101.com
 ck101.com###pop_ad_mobile
 
