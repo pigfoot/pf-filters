@@ -9,7 +9,7 @@
 @@||d.line-scdn.net$image,domain=buy.line.me
 
 ! inside.com.tw
-!inside.com.tw##div.ad-content
+inside.com.tw##div.ad-content
 
 ! kisssub.org <div class="clear text_center" style="margin-bottom:10px;">
 kisssub.org##:xpath(//div[@class='clear text_center' and @style='margin-bottom:10px;'])
