@@ -8,8 +8,8 @@
 @@||obs.line-scdn.net$image,domain=buy.line.me
 @@||d.line-scdn.net$image,domain=buy.line.me
 
-! ck101.com
-ck101.com###pop_ad_mobile
+! inside.com.tw
+!inside.com.tw##div.ad-content
 
 ! kisssub.org <div class="clear text_center" style="margin-bottom:10px;">
 kisssub.org##:xpath(//div[@class='clear text_center' and @style='margin-bottom:10px;'])
@@ -24,6 +24,9 @@ eats.quickclick.cc##.ad_bottom0.notify_fixed
 ! kenki2515.pixnet.net (痞客邦)
 ! kenki2515.pixnet.net##:xpath(//ins[@class='adsbygoogle'])
 pixnet.net##:xpath(//ins[contains(@class, 'adsbygoogle') or contains(@class, 'adsbyfalcon')] | //iframe[@id='google_esf'] | //div[@id='ad-full-page'] | //div[@id='mib-video-expander'])
+
+! ck101.com
+ck101.com###pop_ad_mobile
 
 ! avgle.com
 avgle.com###exo-native
