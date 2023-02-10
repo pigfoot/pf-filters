@@ -11,6 +11,9 @@
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
+! bnext.com.tw
+bnext.com.tw##:xpath(//div[contains(@class, 'MySponBox')])
+
 ! kisssub.org <div class="clear text_center" style="margin-bottom:10px;">
 kisssub.org##:xpath(//div[@class='clear text_center' and @style='margin-bottom:10px;'])
 m.kisssub.org##:xpath(//div[@class='gg-full-width'])
