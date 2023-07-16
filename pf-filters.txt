@@ -55,6 +55,7 @@ ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and @style='margin-
 
 ! 7mmtv.sx
 7mmtv.sx##:xpath(//div[contains(@class,'a-d-block') or contains(@class,'ut1_img_content_js')])
+7mmtv.sx##.ut_cg1_top
 
 ! 18av.mm-cg.com
 18av.mm-cg.com##:xpath(//div[contains(@class,'ut1_img')])
