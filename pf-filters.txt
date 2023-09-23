@@ -35,8 +35,11 @@ ck101.com###pop_ad_mobile
 avgle.com###exo-native
 
 ! ggjav.com
-ggjav.com##.native_ads
-ggjav.com##iframe[src*="https://r.trwl1.com/"]
+#ggjav.com##.native_ads ## in EasyList
+
+##<div class="row" style="text-align: center; margin-top: 20px; padding-left:10px; padding-right:10px;">
+##  <a class="blue_a" target="_blank" href="https://r.trackwilltrk.com/">
+ggjav.com##:xpath(//body/div[@class="row" and a[contains(@class,'blue_a')]])
 
 ! missav.com
 missav.com##.under_player
@@ -46,12 +49,10 @@ missav.com##.banner-300.mx-auto
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
 
 ! avbebe.com
-!avbebe.com##iframe[src*="https://r.trwl1.com/"]
-!avbebe.com##iframe[src^="https://new.dp-toy.com"]
 avbebe.com##:xpath(//div[contains(@class,'jeg_ad')])
 
 ! cavb.tv
-ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and @style='margin-top:20px'])
+ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and (child::a or child::div[@style="width: 300px; height: 170px; margin: 0px auto;"] or child::div[@style="width: 300px; height: 250px;"])])
 
 ! 7mmtv.sx
 7mmtv.sx##:xpath(//div[contains(@class,'a-d-block') or contains(@class,'ut1_img_content_js')])
