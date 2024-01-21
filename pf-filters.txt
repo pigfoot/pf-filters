@@ -28,6 +28,9 @@ eats.quickclick.cc##.ad_bottom0.notify_fixed
 ! kenki2515.pixnet.net##:xpath(//ins[@class='adsbygoogle'])
 pixnet.net##:xpath(//ins[contains(@class, 'adsbygoogle') or contains(@class, 'adsbyfalcon')] | //iframe[@id='google_esf'] | //div[@id='ad-full-page'] | //div[@id='mib-video-expander'])
 
+! sparkbyexamples.com
+sparkbyexamples.com##:xpath(//div[@id='ezmobfooter'])
+
 ! ck101.com
 ck101.com###pop_ad_mobile
 
