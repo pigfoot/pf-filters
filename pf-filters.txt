@@ -8,6 +8,12 @@
 @@||obs.line-scdn.net$image,domain=buy.line.me
 @@||d.line-scdn.net$image,domain=buy.line.me
 
+! Block LINE Today
+||a.line.me^
+
+! Unblock aotter.net
+@@||aotter.net^
+
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
