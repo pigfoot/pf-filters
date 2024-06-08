@@ -12,8 +12,7 @@
 ||a.line.me^
 
 ! Unblock aotter.net
-@@||pnn5.aotter.net^
-@@||pnn5.aottercdn.com^
+@@/^pnn5\.aotter(cdn)?\.(net|com)$/
 
 ! inside.com.tw
 inside.com.tw##div.ad-content
