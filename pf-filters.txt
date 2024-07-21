@@ -16,6 +16,7 @@
 ! Unblock klook when login
 @@||log.klook.com/v3/frontlogsrv/log/$ping,domain=www.klook.com
 @@||log.klook.com/v2/frontlogsrv/log/$xhr,domain=www.klook.com
+@@||sentry.io/api/$xhr,domain=www.klook.com
 
 ! inside.com.tw
 inside.com.tw##div.ad-content
