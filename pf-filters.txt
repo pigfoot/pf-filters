@@ -13,6 +13,9 @@
 ! Unblock aotter.net
 @@/^pnn5\.aotter(cdn)?\.(net|com)$/
 
+! Unblock klook when login
+@@||log.klook.com/v3/frontlogsrv/log/$ping,domain=www.klook.com
+
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
