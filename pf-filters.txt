@@ -18,6 +18,9 @@
 @@||log.klook.com/v2/frontlogsrv/log/$xhr,domain=www.klook.com
 @@||sentry.io/api/$xhr,domain=www.klook.com
 
+! Unblock https://console.groq.com when login
+@@||telemetry.stytch.com/submit$xhr,domain=console.groq.com
+
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
