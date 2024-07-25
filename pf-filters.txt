@@ -21,6 +21,9 @@
 ! Unblock https://console.groq.com when login
 @@||telemetry.stytch.com/submit$xhr,domain=console.groq.com
 
+! Login reminder popup remover
+facebook.com##:xpath(//div[@data-nosnippet])
+
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
