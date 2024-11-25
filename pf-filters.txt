@@ -83,6 +83,8 @@ ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and (child::a or ch
 ! aa1xx.xyz
 aa1xx.xyz###inPlayerGGzone
 aa1xx.xyz##lazy-list
+aa2xx.xyz###inPlayerGGzone
+aa2xx.xyz##lazy-list
 
 ! avjoy.me
 avjoy.me##.ad-content-bot
