@@ -81,11 +81,9 @@ ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and (child::a or ch
 18av.mm-cg.com##:xpath(//div[contains(@class,'ut1_img')])
 
 ! aa1xx.xyz
-aa1xx.xyz###inPlayerGGzone
-aa1xx.xyz##lazy-list
-aa2xx.xyz###inPlayerGGzone
-aa2xx.xyz##lazy-list
 aa2xx.xyz##:xpath(//div[@id='o63092' or @id='o63093'][.//img[@alt='xxx']])
+aa2xx.xyz##:xpath(//div[contains(@class,'simple-banner')])
+aa2xx.xyz##:xpath(//footer[@id='colophon'])
 
 ! avjoy.me
 avjoy.me##.ad-content-bot
