@@ -85,7 +85,7 @@ aa1xx.xyz###inPlayerGGzone
 aa1xx.xyz##lazy-list
 aa2xx.xyz###inPlayerGGzone
 aa2xx.xyz##lazy-list
-aa2xx.xyz##:xpath(//div[@class='f63092' or @class='f63093'][.//img[@alt='xxx']])
+aa2xx.xyz##:xpath(//div[@id='o63092' or @id='o63093'][.//img[@alt='xxx']])
 
 ! avjoy.me
 avjoy.me##.ad-content-bot
