@@ -84,6 +84,8 @@ ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and (child::a or ch
 aa2xx.xyz##:xpath(//div[@id='o63092' or @id='o63093'][.//img[@alt='xxx']])
 aa2xx.xyz##:xpath(//div[contains(@class,'simple-banner')])
 aa2xx.xyz##:xpath(//footer[@id='colophon'])
+aa2xx.xyz##:xpath(//lazy-list)
+
 
 ! avjoy.me
 avjoy.me##.ad-content-bot
