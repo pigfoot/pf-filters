@@ -22,30 +22,36 @@
 @@||telemetry.stytch.com/submit$xhr,domain=console.groq.com
 
 ! Login reminder popup remover
-facebook.com##:xpath(//div[@data-nosnippet])
+!facebook.com##div[data-nosnippet]
 
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
 ! bnext.com.tw
-bnext.com.tw##:xpath(//div[contains(@class, 'MySponBox')])
+!bnext.com.tw##:xpath(//div[contains(@class, 'MySponBox')])
+bnext.com.tw##div[class*='MySponBox']
 
 ! kisssub.org <div class="clear text_center" style="margin-bottom:10px;">
-kisssub.org##:xpath(//div[@class='clear text_center' and @style='margin-bottom:10px;'])
-m.kisssub.org##:xpath(//div[@class='gg-full-width'])
+!kisssub.org##:xpath(//div[@class='clear text_center' and @style='margin-bottom:10px;'])
+!m.kisssub.org##:xpath(//div[@class='gg-full-width'])
+kisssub.org##div.clear.text_center[style='margin-bottom:10px;']
+m.kisssub.org##div.gg-full-width
 
 ! www.beurlife.com <div style="width:100%;height:350px" fuy3olrvx="" fi6xvyho7="">
-beurlife.com##:xpath(//div[@style='width:100%;height:350px'or @class='entry-share-wrap'] | //p[@class='info_before_post'])
+!beurlife.com##:xpath(//div[@style='width:100%;height:350px'or @class='entry-share-wrap'] | //p[@class='info_before_post'])
+beurlife.com##div[style='width:100%;height:350px'], div.entry-share-wrap, p.info_before_post
 
 ! eats.quickclick.cc
 eats.quickclick.cc##.ad_bottom0.notify_fixed
 
 ! kenki2515.pixnet.net (痞客邦)
 ! kenki2515.pixnet.net##:xpath(//ins[@class='adsbygoogle'])
-pixnet.net##:xpath(//ins[contains(@class, 'adsbygoogle') or contains(@class, 'adsbyfalcon')] | //iframe[@id='google_esf'] | //div[@id='ad-full-page'] | //div[@id='mib-video-expander'])
+!pixnet.net##:xpath(//ins[contains(@class, 'adsbygoogle') or contains(@class, 'adsbyfalcon')] | //iframe[@id='google_esf'] | //div[@id='ad-full-page'] | //div[@id='mib-video-expander'])
+pixnet.net##ins[class*='adsbygoogle'], ins[class*='adsbyfalcon'], iframe#google_esf, div#ad-full-page, div#mib-video-expander
 
 ! sparkbyexamples.com
-sparkbyexamples.com##:xpath(//div[@id='ezmobfooter'])
+!sparkbyexamples.com##:xpath(//div[@id='ezmobfooter'])
+sparkbyexamples.com##div#ezmobfooter
 
 ! ck101.com
 ck101.com###pop_ad_mobile
@@ -58,7 +64,8 @@ avgle.com###exo-native
 
 !!<div class="row" style="text-align: center; margin-top: 20px; padding-left:10px; padding-right:10px;">
 !!  <a class="blue_a" target="_blank" href="https://r.trackwilltrk.com/">
-ggjav.com##:xpath(//body/div[@class="row" and a[contains(@class,'blue_a')]])
+!ggjav.com##:xpath(//body/div[@class="row" and a[contains(@class,'blue_a')]])
+ggjav.com##body > div.row > a.blue_a
 
 ! missav.com
 missav.com##.under_player
@@ -68,24 +75,34 @@ missav.com##.banner-300.mx-auto
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
 
 ! avbebe.com
-avbebe.com##:xpath(//div[contains(@class,'jeg_ad')])
+!avbebe.com##:xpath(//div[contains(@class,'jeg_ad')])
+avbebe.com##div[class*='jeg_ad']
 
 ! cavb.tv
-ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and (child::a or child::div[@style="width: 300px; height: 170px; margin: 0px auto;"] or child::div[@style="width: 300px; height: 250px;"])])
+!ccavb.tv##:xpath(//div[contains(@class,'mantine-Stack-root') and (child::a or child::div[@style="width: 300px; height: 170px; margin: 0px auto;"] or child::div[@style="width: 300px; height: 250px;"])])
+!ccavb.tv##div[class*='mantine-Stack-root'] > a, div[class*='mantine-Stack-root'] > div[style="width: 300px; height: 170px; margin: 0px auto;"], div[class*='mantine-Stack-root'] > div[style="width: 300px; height: 250px;"]
 
 ! 7mmtv.sx
-7mmtv.sx##:xpath(//div[contains(@class,'a-d-block') or contains(@class,'ut1_img_content_js')])
+!7mmtv.sx##:xpath(//div[contains(@class,'a-d-block') or contains(@class,'ut1_img_content_js')])
+7mmtv.sx##div[class*='a-d-block'], div[class*='ut1_img_content_js']
 7mmtv.sx##.ut_cg1_top
 
 ! 18av.mm-cg.com
-18av.mm-cg.com##:xpath(//div[contains(@class,'ut1_img')])
+!18av.mm-cg.com##:xpath(//div[contains(@class,'ut1_img')])
+18av.mm-cg.com##div[class*='ut1_img']
 
 ! aa1xx.xyz
-aa2xx.xyz##:xpath(//div[@id='o63092' or @id='o63093'][.//img[@alt='xxx']])
-aa2xx.xyz##:xpath(//div[contains(@class,'simple-banner')])
-aa2xx.xyz##:xpath(//footer[@id='colophon'])
-aa2xx.xyz##:xpath(//lazy-list)
-
+!aa2xx.xyz##:xpath(//div[@id='o63092' or @id='o63093'][.//img[@alt='xxx']])
+!aa2xx.xyz##:xpath(//div[contains(@class,'simple-banner')])
+!aa2xx.xyz##:xpath(//footer[@id='colophon'])
+!aa2xx.xyz##:xpath(//lazy-list)
+aa2xx.xyz##div#o63092 img[alt='xxx'], div#o63093 img[alt='xxx']
+aa2xx.xyz##div[class*='simple-banner']
+aa2xx.xyz##footer#colophon
+aa2xx.xyz##lazy-list
 
 ! avjoy.me
 avjoy.me##.ad-content-bot
+
+! av01.tv
+!av01.tv##div#tile-ad, div.well.ad-body
