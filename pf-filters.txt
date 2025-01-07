@@ -7,9 +7,6 @@
 @@||obs.line-scdn.net$image,domain=buy.line.me
 @@||d.line-scdn.net$image,domain=buy.line.me
 
-! Block LINE Today
-||a.line.me^
-
 ! Unblock aotter.net
 @@/^pnn5\.aotter(cdn)?\.(net|com)$/
 
@@ -23,6 +20,7 @@
 
 ! Login reminder popup remover
 !facebook.com##div[data-nosnippet]
+facebook.com##div[class*='__fb-light-mode']
 
 ! inside.com.tw
 inside.com.tw##div.ad-content
