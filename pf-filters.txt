@@ -71,6 +71,7 @@ missav.com##.banner-300.mx-auto
 
 ! netflav.com
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
+netflav.com##.ads_video_overlay_iframe
 
 ! avbebe.com
 !avbebe.com##:xpath(//div[contains(@class,'jeg_ad')])
