@@ -66,8 +66,9 @@ avgle.com###exo-native
 ggjav.com##body > div.row > a.blue_a
 
 ! missav.com
-missav.com##.under_player
-missav.com##.banner-300.mx-auto
+missav.ai##.under_player
+missav.ai##.banner-300.mx-auto
+missav.ai##img[src="/img/mio.jpg"]^^div
 
 ! netflav.com
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
