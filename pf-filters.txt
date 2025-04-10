@@ -68,7 +68,7 @@ ggjav.com##body > div.row > a.blue_a
 ! missav.com
 missav.ai##.under_player
 missav.ai##.banner-300.mx-auto
-missav.ai##.sm\:container.mx-auto.mb-5.px-4
+missav.ai##div:has(> div:has(> img[src="/img/mio.jpg"]))
 
 ! netflav.com
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
