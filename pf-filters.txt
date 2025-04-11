@@ -18,9 +18,10 @@
 ! Unblock https://console.groq.com when login
 @@||telemetry.stytch.com/submit$xhr,domain=console.groq.com
 
-! Login reminder popup remover
-!facebook.com##div[data-nosnippet]
-facebook.com##div[class*='__fb-light-mode']
+! tw news yahoo
+tw.news.yahoo.com##div.bg-dirty-seagull:has-text(廣告)
+tw.yahoo.com##div.taboola-ad-item-wrapper
+tw.yahoo.com##li.stream-responsive-ad-item
 
 ! inside.com.tw
 inside.com.tw##div.ad-content
