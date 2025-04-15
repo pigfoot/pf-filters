@@ -22,6 +22,11 @@
 tw.news.yahoo.com##div.bg-dirty-seagull:has-text(廣告)
 tw.yahoo.com##div.taboola-ad-item-wrapper
 tw.yahoo.com##li.stream-responsive-ad-item
+tw.yahoo.com#div:has(> div:has(> img[src="/img/mio.jpg"]))
+! moible view
+tw.yahoo.com###footerRegion > div[id$="-AnchoredAd-Proxy"]
+tw.yahoo.com###feature_stream_portal-AlwaysFlowAds
+tw.yahoo.com##li:has(div[id^="taboola-twhk-stream-tab"])
 
 ! inside.com.tw
 inside.com.tw##div.ad-content
