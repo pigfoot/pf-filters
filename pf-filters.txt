@@ -24,6 +24,7 @@ tw.yahoo.com##div.taboola-ad-item-wrapper
 tw.yahoo.com##li.stream-responsive-ad-item
 tw.yahoo.com##div:has(div > img[src="/img/mio.jpg"])
 tw.yahoo.com###module-adgrouptl
+tw.yahoo.com##div[id^="module-sponsoredad"]
 ! moible view
 tw.yahoo.com###footerRegion > div[id$="-AnchoredAd-Proxy"]
 tw.yahoo.com###feature_stream_portal-AlwaysFlowAds
