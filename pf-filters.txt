@@ -22,7 +22,6 @@
 tw.news.yahoo.com##div.bg-dirty-seagull:has-text(廣告)
 tw.yahoo.com##div.taboola-ad-item-wrapper
 tw.yahoo.com##li.stream-responsive-ad-item
-tw.yahoo.com##div:has(div > img[src="/img/mio.jpg"])
 tw.yahoo.com###module-adgrouptl
 tw.yahoo.com##div[id^="module-sponsoredad"]
 tw.yahoo.com##div.grid-item:has(div[data-wf-benji-config*="ntk-twhk-"] div[style*="anim_loading_sm.gif"])
@@ -105,7 +104,7 @@ avbebe.com##div[class*='jeg_ad']
 !aa2xx.xyz##:xpath(//div[contains(@class,'simple-banner')])
 !aa2xx.xyz##:xpath(//footer[@id='colophon'])
 !aa2xx.xyz##:xpath(//lazy-list)
-aa2xx.xyz##div#o63092 img[alt='xxx'], div#o63093 img[alt='xxx']
+aa2xx.xyz##div[id^='o6309'] img[alt='xxx']
 aa2xx.xyz##div[class*='simple-banner']
 aa2xx.xyz##footer#colophon
 aa2xx.xyz##lazy-list
