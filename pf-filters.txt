@@ -115,3 +115,6 @@ avjoy.me##.ad-content-bot
 
 ! av01.tv
 !av01.tv##div#tile-ad, div.well.ad-body
+
+! rou.video
+rou.video##div[class*="col-span-2 md:col-span-1"]:has(div:has(> script[src*="bankingbloatedcaptive.com"], div[data-banner-id]))
