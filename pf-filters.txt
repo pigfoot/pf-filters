@@ -120,3 +120,5 @@ avjoy.me##.ad-content-bot
 ! div[class*="col-span-2 md:col-span-1"] -> div.col-span-2.md\:col-span-1
 !rou.video##div[class*="col-span-2 md:col-span-1"]:has(div:has(> script[src*="bankingbloatedcaptive.com"], div[data-banner-id]))
 rou.video##div.col-span-2.md\:col-span-1:has(div:has(> script[src*="bankingbloatedcaptive.com"], div[data-banner-id]))
+rou.video##div.p-2.rounded.text-center.bg-cyan-50.dark\:bg-cyan-900:has(> div.text-xl.mb-1:has-text(通告))
+rou.video##div.grid.grid-cols-1.md\:grid-cols-2.gap-2.my-2.md\:my-4:has(> ins.place-self-center:nth-child(4):last-child)
