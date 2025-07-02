@@ -113,6 +113,7 @@ aa2xx.xyz##lazy-list
 
 ! avjoy.me
 avjoy.me##.ad-content-bot
+avjoy.me##+js(addEventListener-defuser, click, popMagic)
 
 ! av01.tv
 !av01.tv##div#tile-ad, div.well.ad-body
