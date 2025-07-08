@@ -128,3 +128,6 @@ rou.video##div.grid.grid-cols-1.md\:grid-cols-2.gap-2[class*="my-"]:has(> div.pl
 ! javdove.com
 ! exception for ##.lazyad in EasyList
 javdove.com#@#.lazyad
+
+! spankbang.com
+spankbang.com##+js(set-cookie, age_pass, 1, , reload, 1)
