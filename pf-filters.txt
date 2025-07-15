@@ -139,6 +139,10 @@ javdove.com#@#.lazyad
 ! spankbang.com
 spankbang.com##+js(set-cookie, age_pass, 1, , reload, 1)
 
+! javdove.com
+www.javdove.com##+js(set-cookie, 18_prompt, 1, , reload, 1)
+www.javdove.com##+js(set-cookie, early_adopter, 1, , reload, 1)
+
 ! remove media-player control
 education.example.com##+js(run-at, document-end, function() {
     const slider = document.querySelector('.lmn-input-slider');
