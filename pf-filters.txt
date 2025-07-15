@@ -121,8 +121,8 @@ avjoy.me##+js(addEventListener-defuser, click, popMagic)
 ! rou.video
 ! div[class*="col-span-2 md:col-span-1"] -> div.col-span-2.md\:col-span-1
 !rou.video##div[class*="col-span-2 md:col-span-1"]:has(div:has(> script[src*="bankingbloatedcaptive.com"], div[data-banner-id]))
-rou.video##div.col-span-2.md\:col-span-1:has(div:has(> script[src*="bankingbloatedcaptive.com"], div[data-banner-id]))
-rou.video##div.p-2.rounded.text-center.bg-cyan-50.dark\:bg-cyan-900:has(> div.text-xl.mb-1:has-text(通告))
+!rou.video##div.col-span-2.md\:col-span-1:has(div:has(> script[src*="bankingbloatedcaptive.com"], div[data-banner-id]))
+!rou.video##div.p-2.rounded.text-center.bg-cyan-50.dark\:bg-cyan-900:has(> div.text-xl.mb-1:has-text(通告))
 !rou.video##div.grid.grid-cols-1.md\:grid-cols-2.gap-2[class*="my-"]:has(> div.place-self-center:nth-child(4):last-child)
 ! 有時會有三個 所以改成
 !   :has(> div.place-self-center) - 必須包含至少一個直接子 div 且有 place-self-center 類
