@@ -32,6 +32,9 @@ tw.yahoo.com###footerRegion > div[id$="-AnchoredAd-Proxy"]
 tw.yahoo.com###feature_stream_portal-AlwaysFlowAds
 tw.yahoo.com##li:has(div[id^="taboola-twhk-stream-tab"])
 
+! ptt.cc over18
+ptt.cc##+js(set-cookie, over18, 1, , reload, 1)
+
 ! inside.com.tw
 inside.com.tw##div.ad-content
 
