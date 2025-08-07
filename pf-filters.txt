@@ -139,6 +139,10 @@ rou.video##div.md\:col-span-2 > div.my-1.grid.grid-cols-1.md\:grid-cols-3.text-c
 ! exception for ##.lazyad in EasyList
 javdove.com#@#.lazyad
 
+! javrate
+! exception for the navbar
+javrate.com#@#.pc-ads
+
 ! spankbang.com
 spankbang.com##+js(set-cookie, age_pass, 1, , reload, 1)
 
