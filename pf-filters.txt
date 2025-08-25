@@ -18,6 +18,10 @@
 ! Unblock https://console.groq.com when login
 @@||telemetry.stytch.com/submit$xhr,domain=console.groq.com
 
+! Unblock share button from NotebookLM
+notebooklm.google.com#@#.share-label
+notebooklm.google.com#@#.share-button
+
 ! tw news yahoo
 tw.news.yahoo.com##div.bg-dirty-seagull:has-text(廣告)
 tw.yahoo.com##div[id='sda-MAST-iframe']:has(div:has-text(廣告))
