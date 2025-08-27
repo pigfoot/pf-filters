@@ -24,13 +24,13 @@ notebooklm.google.com#@#.share-button
 
 ! tw news yahoo
 tw.news.yahoo.com##div.bg-dirty-seagull:has-text(廣告)
-tw.yahoo.com##div[id='sda-MAST-iframe']:has(div:has-text(廣告))
-tw.yahoo.com##div.taboola-ad-item-wrapper
-tw.yahoo.com##li.stream-responsive-ad-item
-tw.yahoo.com###module-adgrouptl
-tw.yahoo.com##div[id^="module-sponsoredad"]
-tw.yahoo.com##div.grid-item:has(div[data-wf-benji-config*="ntk-twhk-"] div[style*="anim_loading_sm.gif"])
-tw.yahoo.com##div[id='module-ecm-iframe']:has(> iframe[src*='tw.buy.yahoo.com/smartbanner/ecm'])
+!tw.yahoo.com##div[id='sda-MAST-iframe']:has(div:has-text(廣告))
+!tw.yahoo.com##div.taboola-ad-item-wrapper
+!tw.yahoo.com##li.stream-responsive-ad-item
+!tw.yahoo.com###module-adgrouptl
+!tw.yahoo.com##div[id^="module-sponsoredad"]
+!tw.yahoo.com##div.grid-item:has(div[data-wf-benji-config*="ntk-twhk-"] div[style*="anim_loading_sm.gif"])
+!tw.yahoo.com##div[id='module-ecm-iframe']:has(> iframe[src*='tw.buy.yahoo.com/smartbanner/ecm'])
 ! moible view
 tw.yahoo.com###footerRegion > div[id$="-AnchoredAd-Proxy"]
 tw.yahoo.com###feature_stream_portal-AlwaysFlowAds
