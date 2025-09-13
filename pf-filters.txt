@@ -142,6 +142,9 @@ rou.video##div.grid.grid-cols-1.md\:grid-cols-2.gap-2[class*="my-"]:has(> div.pl
 rou.video##div.md\:col-span-2 > div.flex.items-center.justify-center:has(div.place-self-center > a[target="_blank"] > img)
 rou.video##div.md\:col-span-2 > div.my-1.grid.grid-cols-1.md\:grid-cols-3.text-center:has(> div > a[target="_blank"]:has-text(免费看片))
 
+! avple.tv
+avple.tv##div.w-full.flex.justify-center.items-center:has(script[data-cfasync="false"][async]:has-text(adsbyjuicy))
+
 ! javdove.com
 ! exception for ##.lazyad in EasyList
 javdove.com#@#.lazyad
