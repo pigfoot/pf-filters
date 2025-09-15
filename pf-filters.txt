@@ -89,6 +89,10 @@ ggjav.com##body > div.row > a.blue_a
 missav.ai##.under_player
 missav.ai##.banner-300.mx-auto
 missav.ai##div:has(> div:has(> img[src="/img/mio.jpg"]))
+! stop window focus/blur for continuing play
+missav.ai##+js(aeld, blur)
+missav.ai##+js(aeld, focus)
+missav.ai##+js(aeld, visibilitychange)
 
 ! netflav.com
 netflav.com##iframe[src^="https://go.xlvirdr.com/"]
