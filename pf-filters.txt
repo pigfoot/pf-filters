@@ -153,12 +153,15 @@ avple.tv##div.w-full.flex.justify-center.items-center:has(script[data-cfasync="f
 ! exception for ##.lazyad in EasyList
 javdove.com#@#.lazyad
 
+! spankbang.com
+spankbang.com##+js(set-cookie, age_pass, 1, , reload, 1)
+
 ! javrate
 ! exception for the navbar
 javrate.com#@#.pc-ads
 
-! spankbang.com
-spankbang.com##+js(set-cookie, age_pass, 1, , reload, 1)
+! 123av.ws
+123av.ws##+js(set-cookie, __mpop, 1, , reload, 1)
 
 ! javdove.com
 www.javdove.com##+js(set-cookie, 18_prompt, 1, , reload, 1)
