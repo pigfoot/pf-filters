@@ -76,6 +76,7 @@ ck101.com###pop_ad_mobile
 
 ! baozimh (包子)
 twmanga.com###baoziAdPopup
+twmanga.com###interstitial_fade
 
 ! avgle.com
 avgle.com###exo-native
