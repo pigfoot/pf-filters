@@ -130,9 +130,9 @@ avjoy.me##+js(addEventListener-defuser, click, popMagic)
 
 ! rou.video
 ! home page banner
-rou.video##main.flex-1 > div > div[data-slot="card"]:first-child
+!rou.video##main.flex-1 > div > div[data-slot="card"]:first-child
 ! random in video list
-rou.video##div.col-span-2.md\:col-span-1:has([data-cl-spot], [data-banner-id], [id*="ad"])
+!rou.video##div.col-span-2.md\:col-span-1:has([data-cl-spot], [data-banner-id], [id*="ad"])
 
 ! avple.tv
 avple.tv##div.w-full.flex.justify-center.items-center:has(script[data-cfasync="false"][async]:has-text(adsbyjuicy))
